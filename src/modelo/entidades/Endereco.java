@@ -3,13 +3,15 @@ package modelo.entidades;
 import java.io.Serializable;
 
 public class Endereco implements Serializable{
+		
+	private static final long serialVersionUID = 1L;
 	
 	private String tipo;
 	private String endereco;
 	private String numero;
 	private String complemento;
 	private String bairro;
-	private String cep;
+	private Cep cep;
 	private Cidade cidade; 
 	private Uf uf;
 	
@@ -19,7 +21,7 @@ public class Endereco implements Serializable{
 	}
 	
 	
-	public Endereco(String tipo, String endereco, String numero, String complemento, String bairro, String cep,
+	public Endereco(String tipo, String endereco, String numero, String complemento, String bairro, Cep cep,
 			Cidade cidade, Uf uf) {
 		this.tipo = tipo;
 		this.endereco = endereco;
@@ -71,6 +73,16 @@ public class Endereco implements Serializable{
 		this.complemento = complemento;
 	}
 
+	
+	public Cep getCep() {
+		return cep;
+	}
+
+
+	public void setCep(Cep cep) {
+		this.cep = cep;
+	}
+
 
 	public String getBairro() {
 		return bairro;
@@ -79,16 +91,6 @@ public class Endereco implements Serializable{
 
 	public void setBairro(String bairro) {
 		this.bairro = bairro;
-	}
-
-
-	public String getCep() {
-		return cep;
-	}
-
-
-	public void setCep(String cep) {
-		this.cep = cep;
 	}
 
 
