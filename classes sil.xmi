@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI xmi.version="1.2" verified="false" timestamp="2020-01-27T02:23:04" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
+<XMI xmi.version="1.2" verified="false" timestamp="2020-01-27T03:23:02" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
@@ -216,7 +216,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams resolution="96">
-       <diagram linecolor="#ff0000" snapy="25" xmi.id="uFf3fsCkIz4WY" type="1" snapx="25" fillcolor="#ffff00" griddotcolor="#d3d3d3" snapgrid="0" documentation="" showops="1" showatts="1" showscope="1" showgrid="0" name="diagrama de classe" linewidth="0" canvasheight="1347.62" snapcsgrid="0" canvaswidth="2665.19" isopen="1" localid="-1" backgroundcolor="#ffffff" showpubliconly="0" usefillcolor="1" showattribassocs="1" showstereotype="1" textcolor="#000000" showpackage="1" font="Noto Sans,9,-1,5,50,0,0,0,0,0" zoom="142,3177164604009" showattsig="1" showopsig="1">
+       <diagram linecolor="#ff0000" snapy="25" xmi.id="uFf3fsCkIz4WY" type="1" snapx="25" fillcolor="#ffff00" griddotcolor="#d3d3d3" snapgrid="0" documentation="" showops="1" showatts="1" showscope="1" showgrid="0" name="diagrama de classe" linewidth="0" canvasheight="1347.62" snapcsgrid="0" canvaswidth="2665.19" isopen="1" localid="-1" backgroundcolor="#ffffff" showpubliconly="0" usefillcolor="1" showattribassocs="1" showstereotype="1" textcolor="#000000" showpackage="1" font="Noto Sans,9,-1,5,50,0,0,0,0,0" zoom="123,7545360525225" showattsig="1" showopsig="1">
         <widgets>
          <enumwidget linecolor="#ff0000" xmi.id="uFMd3Xjfc4d1S" fillcolor="#ffff00" x="-1353.76" width="203.492" linewidth="0" isinstance="0" usesdiagramusefillcolor="0" localid="ugzBylLFxQveZ" usefillcolor="1" showstereotype="1" usesdiagramfillcolor="0" textcolor="#000000" showpackage="1" font="Noto Sans,9,-1,5,50,0,0,0,0,0" y="-763.904" height="96" autoresize="0"/>
          <classwidget linecolor="#ff0000" xmi.id="uGWH08TZrW9Hs" fillcolor="#ffff00" x="-1445.08" showattributes="1" showoperations="1" width="244" showscope="1" linewidth="0" isinstance="0" usesdiagramusefillcolor="0" localid="uhXEZO4KBrRks" showpubliconly="0" showattsigs="601" usefillcolor="1" showstereotype="1" usesdiagramfillcolor="0" textcolor="#000000" showpackage="1" font="Noto Sans,9,-1,5,50,0,0,0,0,0" y="-1326.69" height="235.35" showopsigs="601" autoresize="0"/>

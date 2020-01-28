@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="700.0" prefWidth="800.0" style="-fx-background-color: #160a4b;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+   <children>
+      <Label layoutX="400.0" layoutY="1.0" prefHeight="700.0" prefWidth="400.0" style="-fx-background-color: #fff;" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="128.0" layoutY="257.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/6358243_preview.png.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
