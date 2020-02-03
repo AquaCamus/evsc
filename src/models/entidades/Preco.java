@@ -1,4 +1,4 @@
-package modelo.entidades;
+package models.entidades;
 
 public abstract class Preco {
 

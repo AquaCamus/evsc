@@ -1,4 +1,4 @@
-package modelo.entidades;
+package models.entidades;
 
 public class Fabricante extends Empresa{
 

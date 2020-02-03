@@ -1,4 +1,4 @@
-package modelo.entidades;
+package models.entidades;
 
 public class Fornecedor extends Empresa{
 
